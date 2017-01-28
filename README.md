@@ -1,3 +1,5 @@
+(Fork of ornicar/scalalib by loloof64. Intent, export into Jitpack)
+
 Stuff I need in most scala projects
 
 ## Pimps
