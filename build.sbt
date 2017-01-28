@@ -15,7 +15,7 @@ resolvers ++= Seq(
 
 libraryDependencies ++= Seq(
   "org.scalaz" %% "scalaz-core" % "7.1.11",
-  "org.specs2" %% "specs2-core" % "3.6" % "test"
+  "org.specs2" %% "specs2-core" % "3.6"
 )
 
 scalacOptions := Seq(
